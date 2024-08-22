@@ -3,29 +3,21 @@
 ## :memo: Descrição
 Programas ABAP que utilizam o comando `WRITE` são utilizados para **exibir dados formatados na tela**. O comando `WRITE` tem varias opções na formatação dos dados no relatorio, permitindo controlar a posição, tamanho, formato numérico e alinhamento dos dados.
 
-<img src=".readme/Relatorio 1.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_21 - Exercício de report de lista simples apostila Iteam (01).abap">Exercicio - 01</a>
+<a href="Relatórios Write\Z_ALGJ_21 - Exercício de report de lista simples apostila Iteam (01).abap">Exercicio - 01</a>
 
-<img src=".readme/Relatorio 2.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_22 - Exercício de report de lista simples apostila Iteam (02).abap">Exercicio - 02</a>
+<a href="Relatórios Write\Z_ALGJ_22 - Exercício de report de lista simples apostila Iteam (02).abap">Exercicio - 02</a>
 
-<img src=".readme/Relatorio 3.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_23 - Exercício de report de lista simples apostila Iteam (03).abap">Exercicio - 03</a>
+<a href="Relatórios Write/Z_ALGJ_23 - Exercício de report de lista simples apostila Iteam (03).abap">Exercicio - 03</a>
 
-<img src=".readme/Relatorio 4.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_24 - Exercício de report de lista simples apostila Iteam (04).abap">Exercicio - 04</a>
+<a href="Relatórios Write/Z_ALGJ_24 - Exercício de report de lista simples apostila Iteam (04).abap">Exercicio - 04</a>
 
-<img src=".readme/Relatorio 5.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_25 - Exercício de report de lista simples apostila Iteam (05).abap">Exercicio - 05</a>
+<a href="Relatórios Write/Z_ALGJ_25 - Exercício de report de lista simples apostila Iteam (05).abap">Exercicio - 05</a>
 
-<img src=".readme/Relatorio 6.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_26 - Exercício de report de lista simples apostila Iteam (06).abap">Exercicio - 06</a>
+<a href="Relatórios Write/Z_ALGJ_26 - Exercício de report de lista simples apostila Iteam (06).abap">Exercicio - 06</a>
 
-<img src=".readme/Relatorio 7.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_27 - Exercício de report de lista simples apostila Iteam (07).abap">Exercicio - 07</a>
+<a href="Relatórios Write/Z_ALGJ_27 - Exercício de report de lista simples apostila Iteam (07).abap">Exercicio - 07</a>
 
-<img src=".readme/Relatorio 8.png" alt="Tela de Seleção" width="300px">
-<a href="/Relatórios Write/Z_ALGJ_28 - Exercício de report de lista simples apostila Iteam (08).abap">Exercicio - 08</a>
+<a href="Relatórios Write/Z_ALGJ_28 - Exercício de report de lista simples apostila Iteam (08).abap">Exercicio - 08</a>
 
 ## :rocket: Rodando os relatórios
 <a href="https://github.com/AndreLuizDG/Abap_Relatorio_Write">Código Fonte no Github: abap_import_export_csv</a>
