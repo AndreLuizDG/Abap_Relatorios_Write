@@ -1,4 +1,4 @@
-<h1 align="center"> Abap_Relatorio_Write </h1>
+<h1 align="center"> Abap_Relatorios_Write </h1>
 
 ## :memo: Descrição
 Programas ABAP que utilizam o comando `WRITE` são utilizados para **exibir dados formatados na tela**. O comando `WRITE` tem varias opções na formatação dos dados no relatorio, permitindo controlar a posição, tamanho, formato numérico e alinhamento dos dados.
